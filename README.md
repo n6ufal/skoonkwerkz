@@ -1,2 +1,6 @@
-# skoonkwerkz
-Skoonkwerkz Oh My Posh Theme based on https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/kushal.omp.json
+A custom Oh My Posh theme inspired by [Kushal](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/kushal.omp.json)
+, with a soothing pastel color scheme.
+
+Skoonkwerkz is a personalized Oh My Posh theme that takes the best aspects of the Kushal theme and adds a unique pastel color palette.
+
+![image](https://github.com/n6ufal/skoonkwerkz/assets/43400996/0fb78a01-36c0-403c-9c1c-5e541b1f4190)
